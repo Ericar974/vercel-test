@@ -1,0 +1,195 @@
+p{
+    font-family: $Poppins;
+    font-weight: $light
+}
+/********************HEADER**********************/
+
+
+header{
+    aside{
+        p{
+
+            font-weight: $semi-bold;
+            font-size: $logo;
+            color: $grisfoncer;
+
+            
+        }
+    }
+    nav{
+        a{
+            text-transform: uppercase;
+            font-family: $Poppins;
+            font-weight: $medium;
+            font-size: $p;
+            color: $white;
+        }
+        
+    }
+}
+/********************SECTION 1**********************/
+
+
+
+#section1{
+    article{
+        h1{
+            text-transform: uppercase;
+            font-family: $Poppins;
+            div{
+                color: $gris;
+                font-weight: $regular;
+                font-size: $h2;
+            }
+            span{
+                color: $gris;
+                font-size: $h1;
+            }
+        }
+        p{
+            font-weight: $light;
+        }
+    } 
+}
+/********************SECTION 2**********************/
+
+
+
+#section2{
+    article{
+        h2{
+            font-family: $Poppins;
+            div{
+                color: $mauve;
+                font-weight: $regular;
+                font-size: $description;
+            }
+            span{
+                color: $gris;
+                font-size: $h2;
+            }
+        }
+    } 
+}
+/********************SECTION 3**********************/
+
+
+
+#section3{
+    h2{
+        font-family: $Poppins;
+        div{
+            color: $mauve;
+            font-weight: $regular;
+            font-size: $h3;
+        }
+        span{
+            color: $gris;
+            font-size: $h2;
+        }
+    }
+    article{
+        div{
+            h3{
+                 margin-top: 35px;
+                 font-size: $h4;
+                 font-weight: $semi-bold;
+                 font-family: $Poppins;
+            }
+            p{
+                font-size: $p;
+            }
+        }
+    }
+}
+/********************SECTION 4**********************/
+
+
+
+
+#section4{
+    background-color: $mauve_opacite;
+    h2{
+        font-family: $Poppins;
+        font-weight: $semi-bold;
+        div{
+            color: $mauve;
+            font-weight: $regular;
+            font-size: $description;
+        }
+        span{
+            color: $gris;
+            font-size: $h2;
+        }
+    }
+    article{
+       h3{
+            font-family: $Poppins;
+            font-weight: $regular;
+            color: $gris;
+            font-size: $h3;
+       }
+       p{
+            font-size: $p;
+
+       }
+    } 
+}
+/********************SECTION 5**********************/
+
+
+
+
+#section5{
+    h3{
+        font-family: $Poppins;
+        font-weight: $regular;
+        div{
+            color: $mauve;
+            font-weight: $regular;
+            font-size: $description;
+        }
+        span{
+            color: $gris;
+            font-size: $price;
+        }
+        u{
+            font-weight: $semi-bold;
+        }   
+    }
+    div{
+        input{
+            background-color: $mauve_opacite2;
+            color:  $gristropclair;
+        }
+    }
+}
+
+
+/********************FOOTER**********************/
+
+
+
+footer{
+    color: $white;
+    article{
+        div{
+            h4{
+                font-size: $h2;
+                font-family: $Poppins;
+                font-weight: $regular;
+            }
+            h3{
+                font-size: $price;
+                font-family: $Poppins;
+                font-weight: $medium;
+            }
+            h5{
+                font-family: $Poppins;
+                font-weight: $medium;
+                font-size: $description;
+            }
+        }
+    }
+    
+}

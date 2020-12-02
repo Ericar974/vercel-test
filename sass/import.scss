@@ -1,0 +1,23 @@
+//variables
+@import './helpers/variables.scss';
+
+//sections
+@import './components/home.scss';
+@import './components/sections/header.scss';
+@import './components/sections/section1.scss';
+@import './components/sections/section2.scss';
+@import './components/sections/section3.scss';
+@import './components/sections/section4.scss';
+@import './components/sections/section5.scss';
+@import './components/sections/footer.scss';
+
+//unique
+@import './components/reset.scss';
+@import './components/unique/buttons.scss';
+@import './components/unique/suivant.scss';
+@import './components/unique/categorie.scss';
+
+//responsive
+@import './components/responsive/responsive1200.scss';
+@import './components/responsive/responsive800.scss';
+@import './components/responsive/responsive500.scss';

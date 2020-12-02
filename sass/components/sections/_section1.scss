@@ -1,0 +1,37 @@
+#section1{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    article{
+
+        justify-content: center;
+        margin: 100px 0 0 170px;
+        h1{
+            
+        }
+        p{
+            width: 60%;
+            margin-bottom: 30px;
+        }
+    }
+    aside{
+        margin-right: 50px;
+        img{
+            height: 550px;
+        }
+    }
+    #logo_social{
+        position: absolute;
+        left: 0;
+        transform: rotate(90deg);
+        margin-top: 42vh;
+        img{
+            margin-left: 30px;
+            transform: rotate(180deg);
+        }
+    }
+    #suivant{
+        position: absolute;
+        bottom: 2vh;
+    }
+}

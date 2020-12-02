@@ -1,0 +1,16 @@
+#section5{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    h3{
+        margin-top: 140px;
+        text-align: center;
+    }
+    div{
+        input{
+            margin: 40px 10px 100px 0;
+            padding: 15px 100px 15px 100px;
+            border: none;
+        }
+    }
+}

@@ -1,0 +1,26 @@
+footer{
+    height: 70vh;
+    background: url('../../img/footer.svg') no-repeat;
+    
+    article{
+        height: 70vh;
+        display: flex;
+        margin: 0 250px 0 200px;
+        justify-content: space-around;
+        align-items: flex-end;
+        div{
+            margin-bottom: 80px;
+            h4{
+                text-align: center;
+                margin-bottom: 20px;
+            }
+            h5{
+                margin-bottom: 25px;
+            }
+            p{
+                margin-top: 10px;
+            }
+        }
+    }
+    
+}

@@ -1,0 +1,33 @@
+.button{
+    font-family: $Poppins;
+    font-weight: $medium;
+    color: $white;
+    padding: 15px 40px;
+    background: $degradiant_bleu;
+    border-radius: 35px;
+    text-transform: uppercase;
+    font-size: $p;
+}
+
+.button_petit{
+    font-family: $Poppins;
+    font-weight: $medium;
+    color: $white;
+    padding: 7px 15px;
+    background: $degradiant_bleu;
+    border-radius: 35px;
+    text-transform: uppercase;
+    font-size: $p;
+}
+.button_blanc{
+    font-family: $Poppins;
+    font-weight: $medium;
+    color: $gris;
+    padding: 15px 40px;
+    background: $white;
+    
+    border: 1px solid $bleu_fluo;
+    border-radius: 35px;
+    text-transform: uppercase;
+    font-size: $p;
+}

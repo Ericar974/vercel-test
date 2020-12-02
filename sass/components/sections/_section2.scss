@@ -1,0 +1,15 @@
+#section2{
+    background: url('../../img/background-we-are.png') no-repeat;
+    background-position: 100% 0%;
+    background-size: 51%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    article{
+        width: 35%;
+        align-self: center;
+        p{
+            margin-bottom: 50px;
+        }
+    }
+}

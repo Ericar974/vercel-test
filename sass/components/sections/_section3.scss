@@ -1,0 +1,36 @@
+#section3{
+    height: 180vh;
+    background: url('../../img/background-service.png') no-repeat;
+    background-position: 50% 80%;
+
+    background-size: 93%;
+    h2{
+        margin: 100px 0 0 170px;
+    }
+    article{
+        height: 50vh;
+        margin: 120px 0 100px 170px;
+        display: flex;
+        flex-direction: row;
+        div{
+            width: 25%;
+            margin-right: 5vw;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            h3{
+                text-align: center;
+            }
+            p{
+                width: 90%;
+                margin: 35px 0px 55px 0px;
+            }
+            aside{
+                justify-content: center;
+            }
+            span{
+                margin-left: 150px;
+            }
+        }
+    }
+}
